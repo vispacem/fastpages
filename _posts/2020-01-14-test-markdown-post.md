@@ -1,4 +1,4 @@
-# Example Markdown Post
+# Example Markdown Post 1
 
 Here's the table of contents:
 
